@@ -11,7 +11,7 @@ blueprint:
       default: 20
       selector:
         number:
-          min: 48.0
+          min: 20.0
           max: 54.0
           unit_of_measurement: 'V'
           mode: slider
