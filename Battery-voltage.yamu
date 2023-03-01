@@ -47,7 +47,7 @@ blueprint:
         the names of sensors being low on battery.
       selector:
         action: {}
-  source_url: https://raw.githubusercontent.com/oshada007/blueprints-home-assistant-/main/Battery-voltage
+  source_url: https://raw.githubusercontent.com/oshada007/blueprints-home-assistant-/main/Battery-voltage.yaml
 variables:
   day: !input 'day'
   threshold: !input 'threshold'
